@@ -1,0 +1,3 @@
+interface CreditManager{
+  void calculate(); 
+}
